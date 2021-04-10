@@ -22,3 +22,10 @@ footer{
 	padding-top: 50px;
 	padding-right: 60px;
 }
+.archive{
+	padding-top: 30px;
+	text-indent: 45px;
+}
+ul{
+	list-style: none;
+}
